@@ -1,0 +1,1 @@
+Mobile QA: At 390px, the hamburger navigation appears, the home hero stacks cleanly, the 3D orb card remains readable, the project cards become a single-column list, and the chatbot plus footer remain within the viewport without horizontal overflow. The projects page keeps the same typography, rounded cards, project role, stack tags, and live/code actions on mobile.
